@@ -357,6 +357,7 @@ main .themes_hashtag_1 {
   font-size: 14px;
   line-height: 20px;
 }
+.themes_hashtag_general_choose::before,
 .tile_tag::before {
   content: "";
   display: inline-block;
